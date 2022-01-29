@@ -1,0 +1,2 @@
+module LapTrinhHuongDoiTuong {
+}

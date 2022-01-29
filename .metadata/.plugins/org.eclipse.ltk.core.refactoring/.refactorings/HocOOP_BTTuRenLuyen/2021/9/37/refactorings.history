@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;communityuni.com.test.TestSapPham.java&apos; to &apos;TestSanPham.java&apos;&#x0D;&#x0A;- Original project: &apos;HocOOP_BTTuRenLuyen&apos;&#x0D;&#x0A;- Original element: &apos;communityuni.com.test.TestSapPham.java&apos;&#x0D;&#x0A;- Renamed element: &apos;communityuni.com.test.TestSanPham.java&apos;" description="Rename compilation unit &apos;TestSapPham.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;communityuni.com.test{TestSapPham.java" name="TestSanPham.java" references="false" stamp="1631258492295" version="1.0"/>
+</session>
